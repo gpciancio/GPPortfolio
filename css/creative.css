@@ -50,6 +50,11 @@ p {
 .text-faded {
   color: rgba(255, 255, 255, 0.7); }
 
+.gp-pic {
+  border-radius: 1000px !important;
+}
+
+
 section {
   padding: 100px 0; }
 
